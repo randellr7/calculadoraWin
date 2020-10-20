@@ -6,13 +6,14 @@ public class CalculadoraWin {
 
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);
-
+		
 		double[] x = new double[1000];
 		double[] y = new double[1000];
 		double resultado = 0;
 		String operacao = null;
 
 		int i = 0;
+		System.out.println("######################### CALCULADORA #########################");
 		System.out.println("Digite o numero: ");
 		resultado = teclado.nextDouble();
 		System.out.println("Escolha a operacao: (+ , - , * , / , =)");
