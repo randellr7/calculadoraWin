@@ -20,7 +20,7 @@ public class principal {
 		int n; // quantidade de numeros sorteados
 		int j; // quantidade de jogadores participantes do zero ou um americano
 
-		System.out.println("#################### ZERO OU UM AMERICANO  ########################");
+		System.out.println("###ss################# ZERO OU UM AMERICANO  ########################");
 
 		System.out.println("Defina a quantidade de dedos(numeros) que serao sorteados: \n");
 		n = teclado.nextInt();
@@ -49,7 +49,7 @@ public class principal {
 			}
 			
 			if (jog[x] == n) { 
-				System.out.println("\nO jogador sorteado da vez é jogador " + x);
+				System.out.println("\nO jogador sorteado da vez ï¿½ jogador " + x);
 			}
 			
 			x++;// salta pro proximo jogador

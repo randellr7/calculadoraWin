@@ -23,7 +23,7 @@ public class lucro {
 		System.out.println("Media das medias: " + mediadasmedias);
 		
 		
-		//System.out.println("DAVID BOBAO");
+
 		
 
 	}

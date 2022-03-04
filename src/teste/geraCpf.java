@@ -1,4 +1,4 @@
-package teste;
+package src.teste;
 
 import java.util.Random;
 
@@ -33,7 +33,7 @@ public class geraCpf {
 
 		 digito1 = soma-valor;
 
-		  //Primeiro resto da divisão por 11.
+		  //Primeiro resto da divisï¿½o por 11.
 		 resto = (digito1 % 11);
 
 		 if(digito1 < 2){
@@ -49,7 +49,7 @@ public class geraCpf {
 
 		 digito2 = soma2-valor2;
 
-		  //Primeiro resto da divisão por 11.
+		  //Primeiro resto da divisï¿½o por 11.
 		 resto = (digito2 % 11);
 
 		 if(digito2 < 2){
